@@ -1,2 +1,2 @@
-# mba582
+# MIS
 For Homework
